@@ -1,0 +1,1 @@
+# Amity-Social-Cloud-SDK-iOS-VideoPlayer-SwiftPM
